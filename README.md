@@ -1,9 +1,6 @@
 Hellow, my name is João Gabriel!
 
-![image](https://user-images.githubusercontent.com/66679956/218807741-bd63a684-0c95-4acb-9fe7-8b07c73e7896.png)
-
-
-<div>
+<div class="img1">
 <a href="https://github.com/ijoaog">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijoaog&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ijoaog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
