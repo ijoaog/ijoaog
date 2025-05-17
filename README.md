@@ -11,11 +11,11 @@
 
 ### 👋 Sobre mim
 
-Sou desenvolvedor Full Stack com mais de 2 anos de experiência em projetos focados em performance, escalabilidade e manutenibilidade.  
-Tenho familiaridade com todas as etapas do desenvolvimento de software: da modelagem de dados ao deploy em produção.
+Sou desenvolvedor Full Stack com experiência em construir aplicações estruturadas, performáticas e de fácil manutenção. Trabalho tanto no backend quanto no frontend, com foco em código limpo, organizado e alinhado ao propósito do produto.
 
-Atuo com consistência tanto no backend quanto no frontend, priorizando boas práticas, código limpo e arquitetura bem definida.  
-Tenho facilidade para aprender novas tecnologias, resolver problemas de forma lógica e contribuir com times técnicos de forma produtiva e organizada.
+Tenho vivência em todas as etapas do desenvolvimento, desde a modelagem de dados até o deploy, e me dedico a aplicar boas práticas, autonomia técnica e soluções que atendam às necessidades reais do projeto.
+
+Valorizo a aprendizagem contínua, a colaboração efetiva em equipes e a resolução clara e eficiente de problemas.
 
 ---
 
