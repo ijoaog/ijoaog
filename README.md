@@ -45,15 +45,6 @@ Valorizo a aprendizagem contínua, a colaboração efetiva em equipes e a resolu
 
 ---
 
-### 📊 GitHub em números
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ijoaog&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijoaog&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📌 Diferenciais no dia a dia
 
 - Aplicação de **arquitetura em camadas**, **padrões de projeto** e **boas práticas (Clean Code, SOLID)**
