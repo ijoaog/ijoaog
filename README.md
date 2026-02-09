@@ -40,7 +40,7 @@ Valorizo a aprendizagem contínua, a colaboração efetiva em equipes e a resolu
 | **Banco de dados**| MySQL, MongoDB |
 | **Testes**        | Jest |
 | **Mensageria**    | RabbitMQ |
-| **DevOps / Infra**| Docker, AWS (EC2, S3), GitHub Actions, GCP |
+| **DevOps / Infra**| Docker, AWS (EC2, S3), GitHub Actions, GCP, DigitalOcean |
 | **Outros**        | Git, GitHub, Postman, Insomnia, REST APIs, Airflow, Docker |
 
 ---
