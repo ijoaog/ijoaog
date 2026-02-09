@@ -34,14 +34,14 @@ Valorizo a aprendizagem contínua, a colaboração efetiva em equipes e a resolu
 
 | Categoria         | Tecnologias |
 |------------------|-------------|
-| **Linguagens**    | JavaScript, TypeScript |
-| **Back-end**      | Node.js, Express, TypeORM, JWT |
+| **Linguagens**    | JavaScript, TypeScript, Python |
+| **Back-end**      | Node.js, Express, TypeORM, JWT, Go |
 | **Front-end**     | React, Next.js, Svelte, TailwindCSS, Bootstrap |
 | **Banco de dados**| MySQL, MongoDB |
 | **Testes**        | Jest |
 | **Mensageria**    | RabbitMQ |
-| **DevOps / Infra**| Docker, AWS (EC2, S3), GitHub Actions |
-| **Outros**        | Git, GitHub, Postman, Insomnia, REST APIs |
+| **DevOps / Infra**| Docker, AWS (EC2, S3), GitHub Actions, GCP |
+| **Outros**        | Git, GitHub, Postman, Insomnia, REST APIs, Airflow, Docker |
 
 ---
 
